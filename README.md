@@ -1,93 +1,155 @@
 <h1 align="center">Hi 👋, I'm Isuru Sandaruwan</h1>
-<h3 align="center">A Passionate Developer from Sri Lanka 🚀</h3>
-
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=isuru-sandaruwan-kumarasiri&label=Profile%20Views&color=0e75b6&style=flat" alt="isuru-sandaruwan-kumarasiri" />
-</p>
-
-<p align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=isuru-sandaruwan-kumarasiri&theme=gruvbox&no-frame=true&margin-w=15&margin-h=15" alt="GitHub Trophies" />
-  </a>
-</p>
-
-- 🔭 I’m currently working on **my tech blog** where I explore programming, computer science, and analysis.
-
-- 🌱 I’m diving deep into **Java, React, Node.js, and Machine Learning**. 🚀
-
-- 💬 Ask me about **React, Java, Node.js**, or anything tech-related!
-
-- 📫 You can reach me at **isurusandaruwan3840@gmail.com**  
-
----
-
-<h3 align="left">🌐 Connect With Me:</h3>
-<p align="left">
-  <a href="https://www.linkedin.com/in/isuru-sandaruwan/" target="_blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="LinkedIn" height="30" width="40" />
-  </a>
-  <a href="mailto:isurusandaruwan3840@gmail.com" target="_blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="Gmail" height="30" width="40" />
-  </a>
-  <a href="https://github.com/isuru-sandaruwan-kumarasiri" target="_blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" alt="GitHub" height="30" width="40" />
-  </a>
-</p>
-
----
-
-<h3 align="left">💻 Languages and Tools:</h3>
-<p align="left">
-  <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="Arduino" width="40" height="40" />
-  </a>
-  <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40" />
-  </a>
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40" />
-  </a>
-  <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40" />
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40" />
-  </a>
-  <a href="https://expressjs.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express.js" width="40" height="40" />
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40" />
-  </a>
-  <a href="https://www.java.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40" />
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" />
-  </a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40" />
-  </a>
-  <a href="https://nodejs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40" />
-  </a>
-  <a href="https://www.python.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40" />
-  </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40" />
-  </a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="TailwindCSS" width="40" height="40" />
-  </a>
-</p>
-
----
+<h3 align="center">AI/ML Engineer & Data Engineer | Data Science Undergraduate @ University of Peradeniya</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=isuru-sandaruwan-kumarasiri&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Building+Distributed+Data+Pipelines;Training+Graph+Neural+Networks;Fine-Tuning+LLMs+with+LoRA+%2F+QLoRA;Designing+Multi-Agent+RAG+Systems" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=isuru-sandaruwan-kumarasiri&theme=radical" alt="GitHub Streak Stats" />
+  <a href="https://linkedin.com/in/isuruSandaruwan"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://medium.com/@isuruSandaruwan"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/></a>
+  <a href="mailto:isurusandaruwan3840@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <img src="https://komarev.com/ghpvc/?username=isuruSandaruwan&style=for-the-badge&color=2E9EF7" alt="profile views"/>
 </p>
+
+---
+
+### 🚀 About Me
+
+- 🎓 BSc (Hons) in Data Science, University of Peradeniya — Expected 2026
+- 🔭 Currently building **spatio-temporal GNNs** for microservice traffic anomaly detection & resource forecasting
+- 🤖 Exploring **LLM pretraining, LoRA/QLoRA fine-tuning, and DPO alignment**
+- 🏗️ Working across **two career tracks**: Data Engineering (pipelines, streaming, warehousing) and AI/ML Engineering (agentic systems, GNNs, LLMs)
+- ✍️ I write about ML/DE concepts on [Medium](https://medium.com/@isuruSandaruwan)
+- ⚡ Fun fact: I benchmark models before I trust them — full fine-tuning vs LoRA vs QLoRA, TGCN vs GConvGRU vs GCLSTM, you name it
+
+---
+
+### 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,r,java,javascript,pytorch,tensorflow,sklearn,spark,kafka,docker,kubernetes,aws,postgres,mysql,mongodb,fastapi,nodejs,git,linux&perline=10" />
+</p>
+
+<details open>
+<summary><b>🧠 AI / ML Engineering</b></summary>
+<br>
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
+<img src="https://img.shields.io/badge/PyTorch_Geometric-3C2179?style=flat-square&logo=pytorch&logoColor=white"/>
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
+<img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white"/>
+<img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black"/>
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white"/>
+<img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square"/>
+<img src="https://img.shields.io/badge/PEFT_(LoRA/QLoRA)-8A2BE2?style=flat-square"/>
+<img src="https://img.shields.io/badge/TRL_(DPO/SFT)-8A2BE2?style=flat-square"/>
+<img src="https://img.shields.io/badge/Model_Context_Protocol-000000?style=flat-square"/>
+<img src="https://img.shields.io/badge/Qdrant-DC244C?style=flat-square"/>
+<img src="https://img.shields.io/badge/ChromaDB-4B0082?style=flat-square"/>
+<img src="https://img.shields.io/badge/Neo4j-4581C3?style=flat-square&logo=neo4j&logoColor=white"/>
+<img src="https://img.shields.io/badge/LangFuse-000000?style=flat-square"/>
+</details>
+
+<details open>
+<summary><b>🏗️ Data Engineering</b></summary>
+<br>
+<img src="https://img.shields.io/badge/Apache_Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white"/>
+<img src="https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white"/>
+<img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white"/>
+<img src="https://img.shields.io/badge/Spark_Structured_Streaming-E25A1C?style=flat-square"/>
+<img src="https://img.shields.io/badge/Delta_Lake-00ADD8?style=flat-square"/>
+<img src="https://img.shields.io/badge/AWS_S3-569A31?style=flat-square&logo=amazons3&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white"/>
+<img src="https://img.shields.io/badge/SSIS/SSAS-CC2927?style=flat-square"/>
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black"/>
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white"/>
+</details>
+
+<details open>
+<summary><b>💻 Languages & Tools</b></summary>
+<br>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
+</details>
+
+---
+
+### 📌 Pinned Projects
+
+<table>
+<tr>
+<td width="50%">
+
+**🔬 [Traffic Prediction & Anomaly Detection with GNNs](https://github.com/isuruSandaruwan)**
+Two-stage spatio-temporal GNN system on Alibaba Cloud traces (20K+ microservices) — edge anomaly detection with TGCN/ST-GAT, and CPU/memory forecasting with TGCN/GConvGRU/GCLSTM/GConvLSTM (Test R² up to 0.86).
+`Spark` `PyTorch Geometric` `Databricks` `AWS S3`
+
+</td>
+<td width="50%">
+
+**⚡ [FinGuard — Real-Time Fraud Detection Pipeline](https://github.com/databeli/finguard_streaming_project)**
+End-to-end streaming pipeline: Kafka → Spark Structured Streaming → Databricks Lakeflow, with stream-stream joins, watermarking, and real-time fraud alerting.
+`Kafka` `Spark Streaming` `PostgreSQL` `Lakeflow`
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+**🏥 [Multi-Agent Hospital Chatbot](https://github.com/isuruSandaruwan)**
+LangGraph-orchestrated multi-agent system with RAG (Qdrant), MCP-based tool integration, and a 4-tier memory architecture for clinical query resolution.
+`LangGraph` `MCP` `FastAPI` `Supabase`
+
+</td>
+<td width="50%">
+
+**🧬 [GPT Pretraining, Fine-Tuning & NLP Experiments](https://github.com/isuruSandaruwan)**
+nanoGPT pretrained from scratch, LoRA/QLoRA fine-tuning + DPO alignment on Qwen2.5, and a 5-way embedding comparison (Word2Vec/GloVe/FastText/BERT/ELMo) for NER.
+`PyTorch` `PEFT` `TRL` `Transformers`
+
+</td>
+</tr>
+</table>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=isuruSandaruwan&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=isuruSandaruwan&theme=tokyonight&hide_border=true" height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=isuruSandaruwan&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=isuruSandaruwan&theme=tokyo-night&hide_border=true" />
+</p>
+
+---
+
+### 🎯 Career Focus
+
+```text
+career_tracks = {
+    "Data Engineering":  ["Batch & streaming pipelines", "Data warehousing", "Kafka/Spark", "Orchestration"],
+    "AI/ML Engineering": ["Agentic RAG systems", "GNNs", "LLM fine-tuning (LoRA/QLoRA/DPO)", "MLOps"]
+}
+```
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=isuruSandaruwan&theme=tokyonight&no-frame=true&row=1&column=6" />
+</p>
+
+<p align="center"><i>📫 Reach me at isurusandaruwan3840@gmail.com — open to Data Engineering and AI/ML Engineering roles/internships.</i></p>
